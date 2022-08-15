@@ -1,6 +1,6 @@
 {
   "name": "@voltage_code/cli_game",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A CLI Based Game that covers data structures!",
   "main": "index.js",
   "type": "module",
@@ -9,7 +9,11 @@
   },
   "bin": "./index.js",
   "keywords": [],
-  "author": "",
+  "author": "Brett Plemons <brettplemons@outlook.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+github.com:PlemonsBrett/cli-game.git"
+  },
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.0.1",
