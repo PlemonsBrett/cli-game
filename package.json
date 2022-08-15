@@ -1,6 +1,6 @@
 {
   "name": "@voltage_code/cli_game",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A CLI Based Game that covers data structures!",
   "main": "index.js",
   "type": "module",
